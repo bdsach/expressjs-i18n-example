@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "title": "Hello World",
+    "content": "This is my first blog post in English."
+  },
+  {
+    "id": 2,
+    "title": "Express is Awesome",
+    "content": "Express is a fantastic web framework for Node.js."
+  }
+]
